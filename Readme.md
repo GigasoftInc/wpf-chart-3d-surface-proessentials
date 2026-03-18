@@ -1,5 +1,7 @@
 # GigaPrime3D — GPU Compute Shader 3D Surface Chart
 
+Likely the most impressive functioning, performing, efficient 3d 2d combo example you will find on github.
+
 A ProEssentials v10 WPF .NET 8 demonstration of GPU compute shader 
 3D surface rendering — real material surface and terrain height map 
 data visualized across three synchronized charts.
