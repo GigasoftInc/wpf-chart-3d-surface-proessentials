@@ -6,7 +6,7 @@ A ProEssentials v10 WPF .NET 8 demonstration of GPU compute shader
 3D surface rendering — real material surface and terrain height map 
 data visualized across three synchronized charts.
 
-![GigaPrime3D WPF Chart](https://gigasoft.com/files/GigaPrime3D-WpfSurfaceChart.jpg)
+![GigaPrime3D WPF Chart](docs/GigaPrime3D-WpfSurfaceChart.jpg)
 
 ---
 
