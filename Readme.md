@@ -10,6 +10,12 @@ data visualized across three synchronized charts.
 
 ---
 
+> **Found ProEssentials through this repo?** Use code **GITHUB15_OCT31** at checkout for 15% off your first license.
+>
+> Thanks for sharing — every share and star helps another engineer find this repo.
+
+---
+
 ## What This Demonstrates
 
 GigaPrime3D showcases ProEssentials v10's most advanced rendering 
